@@ -11,13 +11,13 @@ const projects = [
   },
   {
     id: "02",
-    title: "Punk API",
-    desc: "A React app to search and filter Brewdog's beers using the Punk API.",
-    demoURL: "https://stephaniehansen.github.io/punk-api",
-    codeURL: "https://github.com/stephaniehansen/punk-api",
-    tags: ["React", "JavaScript", "Sass", "APIs"],
-    thumb: "./images/brewdog.gif",
-    full: "./images/brewdog.gif"
+    title: "React Restaurant menu",
+    desc: "Essentially we will have a list of menu items, and we will also have the buttons that allow us to filter the list by categories. The category buttons are added dynamically (the more categories I have in the list, the more buttons I will have).",
+    demoURL: "https://react-restaurant-m3nu.netlify.app/",
+    codeURL: "https://github.com/rediberry/react-restaurant-menu",
+    tags: ["React", "useState", "useEffect", "Conditional Rendering"],
+    thumb: "./images/menu-thumb.gif",
+    full: "./images/menu.gif"
   },
   {
     id: "03",
