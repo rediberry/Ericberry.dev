@@ -987,3 +987,135 @@ footer .social li {
 footer .social li a {
   line-height: 1em;
 }
+
+/*MUDES SECTION*/
+.hero .content h3{
+  padding:0rem 1.35rem 0rem;
+  font-size:x-small;
+}
+
+.case-study{
+padding: 0rem 0rem 0rem;
+}
+
+.case-study .banner{
+  background-image: url(./images/mudes-full.png);
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  width: 100%;
+}
+
+.case-study .banner2{
+  background-image: url(./images/meeting-mudes.gif);
+  background-position: center;
+  background-size:cover;
+  height: 40vh;
+  width: 100%;
+}
+
+.case-study .banner3{
+  background-image: url(./images/wireframe_mudes.jpg);
+  background-position: initial;
+  background-size: cover;
+  height: 40vh;
+  width: 100%;
+}
+
+.case-study .banner4{
+  background-image: url(./images/Prototipo_mudes.jpg);
+  background-position:center;
+  background-size: cover;
+  height: 40vh;
+  width: 100%;
+}
+
+.case-study .banner5{
+  background-image: url(./images/mudes_build.gif);
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  width: 100%;
+}
+
+.case-study h2{
+  padding: 2.5rem 0rem 1rem;
+}
+
+.case-study h3{
+  padding: 2rem 0rem 1rem;
+}
+
+.case-study p{
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 300;
+  margin-bottom: 18px;
+}
+
+.case-study .intro-text, .process-text{
+  padding: 0rem 1rem 0rem;
+}
+
+.tech-banner{
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #FFFF;
+  display:flex;
+}
+
+.single-tech{
+  padding: 1rem .5rem 1rem;
+  text-align: center;
+}
+
+.single-tech img{
+  height: 20px;
+}
+
+.single-tech h4{
+  font-size: xx-small;
+}
+
+.process-text a{
+  text-decoration:underline;
+}
+
+.case-study .dots{
+  text-align: center;
+}
+
+@media screen and (min-width:768px) {
+  .case-study .banner2{
+    height: 80vh;
+  }
+
+  .hero .content h3{
+    font-size:medium;
+  }
+
+  .case-study{
+    padding: 0rem 10rem 0rem;
+    }
+
+  .case-study .banner{
+      height: 360px;
+  }
+
+  .tech-banner{
+    justify-content:space-around;
+  }
+
+  .single-tech{
+    padding: 1rem .5rem 1rem;
+    text-align: center;
+  }
+  
+  .single-tech img{
+    height: 40px;
+  }
+  
+  .single-tech h4{
+    font-size: small;
+  }
+}

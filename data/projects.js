@@ -33,7 +33,7 @@ const projects = [
     id: "04",
     title: "M.U.DE.S. ong Website",
     desc: "MUDES (Mujeres Unidas para el Desarrollo Social) is an independent non-profit organization that seeks to promote the integral autonomy of women in vulnerable contexts. They act in vulnerable communities, guiding future women leaders to become the protagonists of their own change through comprehensive assistance in the areas of education, work, mental and physical health. I participated in the creation of a custom website and managed the project from inception to completion. I was involved in stakeholder interviews, functionality development, website development and testing.",
-    demoURL: "https://alejandrokit.github.io/Mudes_website/",
+    demoURL: "./pages/mudes.html",
     codeURL: "https://alejandrokit.github.io/Mudes_website/",
     caseStudy: true,
     isPrivate: true,
