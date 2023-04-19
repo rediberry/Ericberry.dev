@@ -1,11 +1,11 @@
 const projects = [
   {
     id: "01",
-    title: "intergr8HR",
-    desc: "intergr8 is an online ticketing system designed to streamline HR practices and enhance communication between employees and the HR team.",
-    demoURL: "https://intergr8-42df9.web.app/",
-    codeURL: "https://github.com/nology-tech/intergr8",
-    tags: ["React", "JavaScript", "Sass", "Firebase"],
+    title: "ReactJS Shopping Cart",
+    desc: "It is a shopping cart made with ReactJS for the Coderhouse Frontend developer certification.",
+    demoURL: "https://changas-store-react.netlify.app/",
+    codeURL: "https://github.com/rediberry/Coderhouse-ReactJS-final-project-Shopping-cart",
+    tags: ["React", "JavaScript", "Styled Components", "Firebase"],
     thumb: "./images/intergr8-thumb.jpg",
     full: "./images/intergr8-full.jpg"
   },
@@ -21,25 +21,25 @@ const projects = [
   },
   {
     id: "03",
-    title: "Botanicals",
-    desc: "An online store built in React. Users are able to add and remove items from their cart, update the quantity for each item and complete payment via PayPal or credit/debit card.",
-    demoURL: "https://stephaniehansen.github.io/react-store-app",
-    codeURL: "https://github.com/stephaniehansen/react-store-app",
-    tags: ["React", "JavaScript", "Sass"],
-    thumb: "./images/botanicals-thumb.jpg",
-    full: "./images/botanicals-full.jpg"
+    title: "Architect Portfolio website",
+    desc: "A responsive website for an architect using HTML, CSS, JavaScript, jQuery, and Firebase. The website features a modern design, showcases the architect's portfolio, includes a contact form, and incorporates jQuery plugins for enhanced user experience.",
+    demoURL: "https://rediberry.github.io/Guido_Vizioli/",
+    codeURL: "https://github.com/rediberry/Guido_Vizioli",
+    tags: ["HTML", "css", "JavaScript", "Jquery", "Firebase"],
+    thumb: "./images/gv-full.jpg",
+    full: "./images/gv-full.jpg"
   },
   {
     id: "04",
     title: "M.U.DE.S. ong Website",
-    desc: "MUDES (Mujeres Unidas para el Desarrollo Social) is an independent non-profit organization that seeks to promote the integral autonomy of women in vulnerable contexts. They act in vulnerable communities, guiding future women leaders to become the protagonists of their own change through comprehensive assistance in the areas of education, work, mental and physical health. I participated in the creation of a custom website and managed the project from inception to completion. I was involved in stakeholder interviews, functionality development, website development and testing.",
+    desc: "MUDES is an independent non-profit organization that seeks to promote the integral autonomy of women in vulnerable contexts. I participated in the creation of a custom website and managed the project from inception to completion.",
     demoURL: "./pages/mudes.html",
-    codeURL: "https://alejandrokit.github.io/Mudes_website/",
+    codeURL: "https://mudes.pe",
     caseStudy: true,
     isPrivate: true,
-    tags: ["HTML", "CSS", "Javascript", "UI/UX Design", "Project Management", "Firebase", "Zapier", "Contentful API", "Headless CMS"],
-    thumb: "./images/mudes-thumb.png",
-    full: "./images/mudes-full.png"
+    tags: ["HTML", "CSS", "Javascript", "UI/UX Design", "Project Management", "Firebase", "Zapier", "Headless CMS"],
+    thumb: "./images/mudes-thumb.jpg",
+    full: "./images/mudes-full.jpg"
   },
   {
     id: "05",
