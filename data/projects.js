@@ -26,8 +26,8 @@ const projects = [
     demoURL: "https://rediberry.github.io/Guido_Vizioli/",
     codeURL: "https://github.com/rediberry/Guido_Vizioli",
     tags: ["HTML", "css", "JavaScript", "Jquery", "Firebase"],
-    thumb: "./images/gv-full.jpg",
-    full: "./images/gv-full.jpg"
+    thumb: "./images/gv-full.JPG",
+    full: "./images/gv-full.JPG"
   },
   {
     id: "04",
